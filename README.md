@@ -1,3 +1,5 @@
+### Masters in Computer Science and Engineering ·  Ahmedabad University  ·  Graduating 2027
+
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Aagam41&show_icons=true&theme=transparent&hide_border=true&title_color=818cf8&icon_color=818cf8&text_color=94a3b8&rank_icon=github" height="150" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aagam41&layout=compact&theme=transparent&hide_border=true&title_color=818cf8&text_color=94a3b8&langs_count=8" height="150" alt="Top languages" />
